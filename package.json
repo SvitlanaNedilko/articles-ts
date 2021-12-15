@@ -2,7 +2,7 @@
   "name": "articles-ts",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gitname.github.io/react-gh-pages",
+  "homepage": "https://svitlananedilko.github.io/articles-ts/",
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",

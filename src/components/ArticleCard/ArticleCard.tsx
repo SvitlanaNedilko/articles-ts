@@ -55,7 +55,7 @@ const ArticleCard: React.FC<IArticleCardProps> = ({ article, searchValue }) => {
 
   return (
     <li key={article.id} className="article-card">
-      <Link className="article-link" to={`/${article.id}`}>
+      <Link className="article-link" to={`/articles-ts/${article.id}`}>
         <Card sx={{ display: 'flex', flexDirection: 'column', height: '100%' }}>
           <CardMedia
             sx={{ height: 220 }}

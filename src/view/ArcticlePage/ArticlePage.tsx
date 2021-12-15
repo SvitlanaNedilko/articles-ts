@@ -37,7 +37,7 @@ export default function ArticlePage() {
         <p>{article.summary}</p>
       </div>
 
-      <Link className="link-back-home" to="/">
+      <Link className="link-back-home" to="/articles-ts/">
         <ArrowLeft className="icon-arrow-left" />
         <span>Back to homepage</span>
       </Link>
